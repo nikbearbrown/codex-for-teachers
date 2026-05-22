@@ -1,0 +1,13 @@
+{
+  "name": "codex-for-teachers",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Codex for Teachers",
+  "scripts": {
+    "svg-to-png": "node SCRIPTS/svg-to-png.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.0",
+    "glob": "^10.0.0"
+  }
+}
