@@ -179,21 +179,3 @@ You have the full conducting framework. The Bridge chapter that follows is Seth'
 [^1]: OpenAI, "Introducing the Codex app" (openai.com/index/introducing-the-codex-app/). The parallel-task UI is the Codex app's organizing affordance as of 2026.
 [^2]: OpenAI engineers, "How OpenAI Engineers use Codex to Tackle Big Projects with Rigor" (forum.openai.com, December 4, 2025).
 [^3]: Simon, H. A. "The Architecture of Complexity." *Proceedings of the American Philosophical Society* 106, no. 6 (1962): 467–482. Republished in Simon's *The Sciences of the Artificial* (MIT Press, 3rd ed. 1996).
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 10.1 — Main build session vs
-
-Create a standalone D3 v7 HTML file for Figure Main build session vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Main build session vs. task queue. Main session: focused Code Mode, one step at a time, full supervisory attention. Task queue: background tasks captured and deferred; isolated contexts. Arrows: tasks fire off; returns evaluated and integrated. Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/10-task-queue-fig-01.html`

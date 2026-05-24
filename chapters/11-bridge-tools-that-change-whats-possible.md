@@ -66,21 +66,3 @@ Turn the page.
 ---
 
 [^1]: Papert, S. *Mindstorms: Children, Computers, and Powerful Ideas*. Basic Books, 1980. See also *The Children's Machine* (Basic Books, 1993).
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 11.1 — The shift from productivity to pedagogy
-
-Create a standalone D3 v7 HTML file for Figure The shift from productivity to pedagogy. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The shift from productivity to pedagogy. Two objects on a horizontal line: grading tool (serves teacher) → interactive simulation (serves student). Label change: "saves time" → "enables possibility." The design question changes when the beneficiary changes. Editorial style. No color.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/11-bridge-tools-that-change-whats-possible-fig-01.html`

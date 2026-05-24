@@ -203,21 +203,3 @@ Act Two begins. Chapter 5 names the five things you do that Codex cannot — the
 [^1]: Anthropic, "How AI assistance impacts the formation of coding skills" (anthropic.com/research/AI-assistance-coding-skills, 2026); arXiv:2601.20245. The three low-scoring patterns are AI Delegation, Progressive AI Reliance, and Iterative AI Debugging.
 [^2]: OpenAI engineers, "How OpenAI Engineers use Codex to Tackle Big Projects with Rigor" (forum.openai.com, December 4, 2025).
 [^3]: Deming, W. E. *Out of the Crisis*. MIT Press, 1986. The 2018 MIT Press reprint is the standard recent edition. "A bad system will beat a good person every time" is widely attributed to Deming from his consulting practice; see also *The New Economics for Industry, Government, Education* (MIT Press, 2nd ed. 2000).
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 5.1 — Handoff condition gate
-
-Create a standalone D3 v7 HTML file for Figure Handoff condition gate. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Handoff condition gate. Build step N → [Handoff condition: specific, testable, binary] → Pass → Build step N+1. Fail path: revert to step N, respecify, rerun. Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/05-handoff-conditions-fig-01.html`

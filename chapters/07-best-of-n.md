@@ -198,21 +198,3 @@ You have a verification technique that scales plausibility auditing. Chapter 7 p
 ---
 
 [^1]: Klein, G. *Sources of Power: How People Make Decisions*. MIT Press, 1998. Klein's RPD model is also documented in his academic papers (e.g., Klein, 1989, in *Decision Making in Action*).
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 7.1 — Generate-Evaluate-Select pattern
-
-Create a standalone D3 v7 HTML file for Figure Generate-Evaluate-Select pattern. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Generate-Evaluate-Select pattern. Specification → [N parallel Codex responses, however generated]. Human evaluates all N. Selects one (optionally combines parts). The selection is the supervisory judgment. Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/07-best-of-n-fig-01.html`

@@ -266,21 +266,3 @@ Three files complete. Ask Mode plan approved. Chapter 11 begins the simulation b
 ---
 
 [^1]: For the broader ecosystem, see designmd.app's library of 454 design systems for AI agents; VoltAgent's awesome-design-md collection on GitHub; the DEV Community discussion *"AGENTS.md, SKILL.md, DESIGN.md: How AI Instructions Split into Three Layers."* The Brutalist three-file system is one entrant in this conversation; the conversation itself is broader than any single system.
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 12.1 — Three-file system as three concentric circles or nested
-
-Create a standalone D3 v7 HTML file for Figure Three-file system as three concentric circles or nested. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three-file system as three concentric circles or nested boxes. Outer: AGENTS.md (technical constitution). Middle: DESIGN.md (visual constitution). Inner: PROJECT.md (project state — Intent Layer is human, always). Editorial style. No color.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/12-three-file-system-fig-01.html`

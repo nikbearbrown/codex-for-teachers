@@ -250,21 +250,3 @@ You have AGENTS.md. Codex knows your project. Chapter 3 teaches you to use the A
 [^2]: Subdirectory AGENTS.md files are particularly useful by Chapter 10, when the simulation build introduces a new subdirectory with simulation-only rules. The chapter's introduction to subdirectory AGENTS.md is the foreshadowing for that.
 [^3]: OpenAI engineers, "How OpenAI Engineers use Codex to Tackle Big Projects with Rigor" (forum.openai.com, December 4, 2025).
 [^4]: Knuth, D. E. "Literate Programming." *The Computer Journal* 27, no. 2 (1984): 97–111.
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 3.1 — AGENTS
-
-Create a standalone D3 v7 HTML file for Figure AGENTS. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: AGENTS.md in the session context — loaded at session start, persists across the session. Without AGENTS.md: Codex guesses. With AGENTS.md: Codex knows.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/03-agents-md-fig-01.html`

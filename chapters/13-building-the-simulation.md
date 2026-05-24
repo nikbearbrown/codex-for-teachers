@@ -232,21 +232,3 @@ The simulation works in your terminal. Chapter 12 deploys it in your classroom. 
 
 [^1]: OpenAI engineers, "How OpenAI Engineers use Codex to Tackle Big Projects with Rigor" (forum.openai.com, December 4, 2025).
 [^2]: Orlikowski, W. J. "Using Technology and Constituting Structures: A Practice Lens for Studying Technology in Organizations." *Organization Science* 11, no. 4 (2000): 404–428. See also Orlikowski's *Sociomateriality: Challenging the Separation of Technology, Work and Organization* (2008) for the elaboration.
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 13.1 — The simulation build loop
-
-Create a standalone D3 v7 HTML file for Figure The simulation build loop. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The simulation build loop. Three files populated → Ask Mode plan → review and approve → Code Mode specification → execute → handoff condition check → pass/revert. Subagent or task-queue branch off the main loop. Supervisory capacity label at each human step. Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/13-building-the-simulation-fig-01.html`
