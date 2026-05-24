@@ -24,7 +24,8 @@ Not in defense. Not in performance. In the honest mode that the conducting disci
 
 The artifact that records this is the **post-build document**. Five sections. One file per build. Honest.
 
-<!-- → [DIAGRAM: The post-build document as the arc's terminal artifact. A simple timeline from Chapter 0 (the teacher opens the terminal) to Chapter 14 (the teacher accounts for every decision). Five milestones labeled: first session / first page / grading tool / simulation deployed / post-build document. Editorial style.] -->
+![The post-build document as the arc's terminal artifact](images/16-post-build-document-fig-01.png)
+*Figure 16.1 — The post-build document as the arc's terminal artifact*
 
 ---
 
@@ -217,3 +218,21 @@ You are now the practitioner. The next build is yours.
 ---
 
 [^1]: hooks, b. *Teaching to Transgress: Education as the Practice of Freedom*. Routledge, 1994.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 16.1 — The post-build document as the arc's terminal artifact
+
+Create a standalone D3 v7 HTML file for Figure The post-build document as the arc's terminal artifact. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The post-build document as the arc's terminal artifact. A simple timeline from Chapter 0 (the teacher opens the terminal) to Chapter 14 (the teacher accounts for every decision). Five milestones labeled: first session / first page / grading tool / simulation deployed / post-build document. Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/16-post-build-document-fig-01.html`

@@ -3,7 +3,7 @@
 
 **Working title:** Codex for Teachers: A Practitioner's Guide
 **Series:** Practitioner Guides for the AI Classroom · Bear Brown & Company
-**Author:** Nik Bear Brown · bear@bearbrown.co · Bear Brown, LLC
+**Author:** Humanitarians AI · bear@bearbrown.co · Bear Brown, LLC
 **Practitioner voice:** Seth Brown
 **Document:** Full TOC Draft — compiled from all phase outputs
 **Version:** 1.0

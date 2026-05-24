@@ -48,7 +48,8 @@ It is *dangerous* because it is hard to detect. It is *middle* because it lives 
 
 For grading tools specifically, the dangerous middle is where AI grading at scale becomes a fairness issue. Output that systematically reads the work of one population of students as deficient — when the reading is actually about *the model's training corpus*, not about the work — is the dangerous middle compounded by structural bias. The next sections lay out the empirical situation.
 
-<!-- → [DIAGRAM: The narrowing principle. Before: Codex generates individual student feedback (dangerous — risks bias, generic, accuracy-without-pedagogy). After: Codex flags patterns → teacher writes individual feedback. Editorial style.] -->
+![The narrowing principle](images/09-dangerous-middle-fig-01.png)
+*Figure 9.1 — The narrowing principle*
 
 ---
 
@@ -227,3 +228,21 @@ The reader has the full conducting discipline. Chapter 9 addresses context manag
 [^3]: Anthropic, *Anthropic Education Report: How educators use Claude* (anthropic.com/news/anthropic-education-report-how-educators-use-claude, 2025). The 48.9% figure is the automation-heavy share of grading-related faculty use.
 [^4]: Hattie, J. and Timperley, H. "The Power of Feedback." *Review of Educational Research* 77, no. 1 (2007): 81–112. Effect-size d ≈ 0.73 for feedback *when it specifies next steps*; volume of feedback is not predictive.
 [^5]: Binet, A. *Les idées modernes sur les enfants*. Flammarion, 1909. Multiple English translations exist; the 1973 Schocken Books reprint is one standard reference.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 9.1 — The narrowing principle
+
+Create a standalone D3 v7 HTML file for Figure The narrowing principle. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The narrowing principle. Before: Codex generates individual student feedback (dangerous — risks bias, generic, accuracy-without-pedagogy). After: Codex flags patterns → teacher writes individual feedback. Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/09-dangerous-middle-fig-01.html`

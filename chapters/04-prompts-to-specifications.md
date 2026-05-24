@@ -20,7 +20,8 @@ You take the smallest possible task: add one new page to your class website — 
 
 This is the pebble in the pond. Everything else in Act One expands outward from this one page.
 
-<!-- → [DIAGRAM: The Ask Mode / Code Mode sequence. Ask Mode: interrogate → plan → review → approve. Gate. Code Mode: specification → execute → verify. Gate between modes labeled: "plan reviewed and approved." Editorial style.] -->
+![The Ask Mode / Code Mode sequence](images/04-prompts-to-specifications-fig-01.png)
+*Figure 4.1 — The Ask Mode / Code Mode sequence*
 
 ---
 
@@ -90,7 +91,9 @@ Now run the specification through Ask Mode first. Codex returns a plan. You read
 
 **The limit:** Specifications do not prevent all failures. They prevent the *avoidable* failures — the ones where Codex did something different from what you wanted because you didn't tell it what you wanted clearly. They do not prevent the dangerous middle (Chapter 8), which is a deeper failure mode.
 
-<!-- → [TABLE: Prompt vs. specification — two columns. Five rows showing each element. Left: weak prompt version. Right: specification version. No color.] -->
+| Item | Meaning |
+| --- | --- |
+| Prompt vs. specification | two columns. Five rows showing each element. Left: weak prompt version. Right: specification version. No color. |
 
 ---
 
@@ -198,3 +201,21 @@ You have built a page. Codex did what you specified, because you specified clear
 
 [^1]: OpenAI engineers, "How OpenAI Engineers use Codex to Tackle Big Projects with Rigor" (forum.openai.com, December 4, 2025): *"When Codex has some way to check its work — like run tests or screenshot the UI — it can iterate and get dramatically better results."*
 [^2]: Pólya, G. *How to Solve It*. Princeton University Press, 1945. The Princeton Science Library 2014 reprint is the standard recent edition.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 4.1 — The Ask Mode / Code Mode sequence
+
+Create a standalone D3 v7 HTML file for Figure The Ask Mode / Code Mode sequence. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The Ask Mode / Code Mode sequence. Ask Mode: interrogate → plan → review → approve. Gate. Code Mode: specification → execute → verify. Gate between modes labeled: "plan reviewed and approved." Editorial style.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/04-prompts-to-specifications-fig-01.html`

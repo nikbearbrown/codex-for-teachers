@@ -1,6 +1,6 @@
 # Codex for Teachers
 
-**Author:** Nik Bear Brown
+**Author:** Humanitarians AI
 **Publisher:** Bear Brown, LLC
 **Status:** Draft
 **Started:** 2026-05-19

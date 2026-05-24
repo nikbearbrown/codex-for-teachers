@@ -30,7 +30,9 @@ This chapter is the bridge between what you have lived and what you can now teac
 
 The mapping is direct. Each chapter of the students book corresponds to a build experience you have had in this book and to a classroom activity you can design around that experience.
 
-<!-- → [TABLE: Students book chapter map — chapter number, what students learn, corresponding teacher build experience, suggested classroom activity. 14 rows. No color.] -->
+| Item | Meaning |
+| --- | --- |
+| Students book chapter map | chapter number, what students learn, corresponding teacher build experience, suggested classroom activity. 14 rows. No color. |
 
 | Student Ch | Students learn | Teacher build experience | Suggested classroom activity |
 |---|---|---|---|

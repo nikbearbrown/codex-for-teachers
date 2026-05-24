@@ -28,7 +28,8 @@ The simulation works. It is generic. And it is generic because you did not draw 
 
 This chapter is the line. Three files. Three concerns separated. Each file protects against a different way the build can go generic.
 
-<!-- → [DIAGRAM: Three-file system as three concentric circles or nested boxes. Outer: AGENTS.md (technical constitution). Middle: DESIGN.md (visual constitution). Inner: PROJECT.md (project state — Intent Layer is human, always). Editorial style. No color.] -->
+![Three-file system as three concentric circles or nested](images/12-three-file-system-fig-01.png)
+*Figure 12.1 — Three-file system as three concentric circles or nested*
 
 ---
 
@@ -188,7 +189,9 @@ This is the test the chapter's worked example was designed to pass. Bubble sort 
 
 The 45-minute test is not about whether you *can* write a longer set of files. It is about whether the *first* simulation should be ambitious enough to need a longer set. For a first build, the answer is no. Make it small. Make it complete. Ship it. Then build the next one larger.
 
-<!-- → [TABLE: Three-file system — file name, what it contains, who writes it, when it changes. Three rows. No color.] -->
+| Item | Meaning |
+| --- | --- |
+| Three-file system | file name, what it contains, who writes it, when it changes. Three rows. No color. |
 
 ---
 
@@ -263,3 +266,21 @@ Three files complete. Ask Mode plan approved. Chapter 11 begins the simulation b
 ---
 
 [^1]: For the broader ecosystem, see designmd.app's library of 454 design systems for AI agents; VoltAgent's awesome-design-md collection on GitHub; the DEV Community discussion *"AGENTS.md, SKILL.md, DESIGN.md: How AI Instructions Split into Three Layers."* The Brutalist three-file system is one entrant in this conversation; the conversation itself is broader than any single system.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 12.1 — Three-file system as three concentric circles or nested
+
+Create a standalone D3 v7 HTML file for Figure Three-file system as three concentric circles or nested. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three-file system as three concentric circles or nested boxes. Outer: AGENTS.md (technical constitution). Middle: DESIGN.md (visual constitution). Inner: PROJECT.md (project state — Intent Layer is human, always). Editorial style. No color.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-three-file-system-fig-01.html`

@@ -32,7 +32,8 @@ ChatGPT is a chat interface. Codex is *something else*. Codex acts on your files
 
 You are now in a relationship with software that does what software has rarely done before in your work — it *takes initiative*. The chapter you are reading is about the discipline that initiative requires.
 
-<!-- → [DIAGRAM: The agentic loop — Gather context → Plan → Execute → Verify → Repeat. Ask Mode: gather and plan only. Code Mode: execute and verify. Human interruption point at every phase. Editorial style. No color.] -->
+![The agentic loop ](images/02-first-codex-session-fig-01.png)
+*Figure 2.1 — The agentic loop *
 
 ---
 
@@ -226,3 +227,21 @@ You have been in a Codex session. You have seen what Codex sees and noticed what
 [^2]: OpenAI, Codex pricing. [verify — confirm exact rate-limit multipliers and plan inclusions at press; figures evolve.]
 [^3]: OpenAI engineers, "How OpenAI Engineers use Codex to Tackle Big Projects with Rigor" (forum.openai.com, December 4, 2025).
 [^4]: Kay, A. *A Personal Computer for Children of All Ages*. Xerox PARC, August 1972. Available as Xerox PARC Technical Report; republished in multiple histories of personal computing.
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 2.1 — The agentic loop 
+
+Create a standalone D3 v7 HTML file for Figure The agentic loop . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The agentic loop — Gather context → Plan → Execute → Verify → Repeat. Ask Mode: gather and plan only. Code Mode: execute and verify. Human interruption point at every phase. Editorial style. No color.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-first-codex-session-fig-01.html`
