@@ -1,5 +1,12 @@
 # Chapter 10 — The Three-File System: Intent, Constitution, State
 
+
+## TL;DR
+
+- This chapter gives a working overview of The Three-File System: Intent, Constitution, State, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, A note on attribution, The three files, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Before Codex enters Code Mode on the simulation, three files define everything. The Intent Layer is human, always.
 
 ---
@@ -253,9 +260,8 @@ A two-file system (combining AGENTS.md and DESIGN.md, or combining DESIGN.md and
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Mies van der Rohe** (1886–1969) — German-American architect of the Bauhaus and the International Style, associated with the principle *"less is more."* The phrase summarizes the structural-frame concept that runs through his work: the building's structure defines what is built without determining every detail. The Barcelona Pavilion (1929) and the Seagram Building (1958) are the canonical examples. Mies argued that the architect's discipline is in *what is removed* — that an excess of decoration, materials, or competing systems weakens the structural argument. The three-file system is this principle as digital architecture: AGENTS.md is the structural frame; DESIGN.md is the constraint that prevents decoration drift; PROJECT.md's Intent Layer is the program brief. Within the constraints, execution is delegated. Outside the constraints, nothing happens. *(For a more precisely-documented total-design parallel, Eileen Gray's E-1027 villa — where every interior element from furniture to lighting was designed as part of one coherent intent — maps even more cleanly onto the three-file system; see "Still puzzling" above.)*
+##  AI Wayback Machine
+ **Mies van der Rohe** (1886–1969) — German-American architect of the Bauhaus and the International Style, associated with the principle *"less is more."* The phrase summarizes the structural-frame concept that runs through his work: the building's structure defines what is built without determining every detail. The Barcelona Pavilion (1929) and the Seagram Building (1958) are the canonical examples. Mies argued that the architect's discipline is in *what is removed* — that an excess of decoration, materials, or competing systems weakens the structural argument. The three-file system is this principle as digital architecture: AGENTS.md is the structural frame; DESIGN.md is the constraint that prevents decoration drift; PROJECT.md's Intent Layer is the program brief. Within the constraints, execution is delegated. Outside the constraints, nothing happens. *(For a more precisely-documented total-design parallel, Eileen Gray's E-1027 villa — where every interior element from furniture to lighting was designed as part of one coherent intent — maps even more cleanly onto the three-file system; see "Still puzzling" above.)*
 
 ---
 

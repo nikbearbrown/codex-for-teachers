@@ -1,5 +1,12 @@
 # Chapter 14 — Your Terminal Deliverable: The Post-Build Document
 
+
+## TL;DR
+
+- This chapter gives a working overview of Your Terminal Deliverable: The Post-Build Document, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The five sections, What I built, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The simulation is deployed. The build is done. This chapter is the record of what you built, what you learned, and what you would do differently.
 
 ---
@@ -205,9 +212,8 @@ I expect the difference to be real because the post-build document forces *conso
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **bell hooks** (1952–2021) — scholar, educator, and cultural critic whose *Teaching to Transgress: Education as the Practice of Freedom* (1994) argued that the teacher who has lived the practice is the teacher whose authority is rooted in something real. hooks called this *engaged pedagogy* — teaching that requires the teacher to be present, to be honest about what they do and do not know, to learn alongside students as a co-practitioner rather than perform the role of expert.[^1] The post-build document is engaged pedagogy applied to teacher-as-builder. The teacher who has built three tools, named where each one was hard, articulated what they would do differently, and shared the honest record with their students is teaching from a different ground than the teacher who is presenting a finished best-practices framework. hooks argued that this difference is felt by students even when it is not named. *(The TIKTOC originally specified Donald Schön — reflection-on-action — as the Wayback figure here. Schön is also at Chapter 7. The pantry research recommended bell hooks for this chapter to avoid the over-use and to strengthen the diversity of the book's Wayback figures. The substantive fit is excellent: hooks's "teacher as co-practitioner" is exactly the stance the post-build document operationalizes.)*
+##  AI Wayback Machine
+ **bell hooks** (1952–2021) — scholar, educator, and cultural critic whose *Teaching to Transgress: Education as the Practice of Freedom* (1994) argued that the teacher who has lived the practice is the teacher whose authority is rooted in something real. hooks called this *engaged pedagogy* — teaching that requires the teacher to be present, to be honest about what they do and do not know, to learn alongside students as a co-practitioner rather than perform the role of expert.[^1] The post-build document is engaged pedagogy applied to teacher-as-builder. The teacher who has built three tools, named where each one was hard, articulated what they would do differently, and shared the honest record with their students is teaching from a different ground than the teacher who is presenting a finished best-practices framework. hooks argued that this difference is felt by students even when it is not named. *(The TIKTOC originally specified Donald Schön — reflection-on-action — as the Wayback figure here. Schön is also at Chapter 7. The pantry research recommended bell hooks for this chapter to avoid the over-use and to strengthen the diversity of the book's Wayback figures. The substantive fit is excellent: hooks's "teacher as co-practitioner" is exactly the stance the post-build document operationalizes.)*
 
 ---
 

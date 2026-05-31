@@ -1,5 +1,12 @@
 # Chapter 6 — Generate, Evaluate, Select: The Verification Technique
 
+
+## TL;DR
+
+- This chapter gives a working overview of Generate, Evaluate, Select: The Verification Technique, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What the technique is, When to use it (and when not), and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > When uncertain which Codex output is correct, generate multiple responses and evaluate all of them. The selection judgment is irreducibly human.
 
 ---
@@ -185,9 +192,8 @@ I do not expect this on the 2027–2028 timeline. If wrong, the chapter's prescr
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Gary Klein** (born 1944) — cognitive scientist whose work on **recognition-primed decision-making (RPD)** transformed how we understand expert decision-making in time-pressured domains. Klein studied firefighters, nurses, military commanders — experts who *recognize patterns* and rapidly simulate outcomes to make decisions, often without articulable reasoning. His *Sources of Power* (1998) is the canonical reference.[^1] The generate-evaluate-select technique is RPD with the *candidates externalized*. You generate three responses so that you have three pattern-recognized candidates in front of you at once, then your expert pattern-recognition fires to select. Klein's argument is that expert recognition is fast, partly tacit, and reliable when the expert has domain experience. Generate-evaluate-select gives your domain experience something to bite on. (The TIKTOC originally specified Herbert Simon's satisficing as the Wayback figure here — also a strong fit. The pantry research recommended Klein because his framework is closer to what the human actually does in the selection moment. The chapter uses Klein; you can substitute Simon if your reading prefers him.)
+##  AI Wayback Machine
+ **Gary Klein** (born 1944) — cognitive scientist whose work on **recognition-primed decision-making (RPD)** transformed how we understand expert decision-making in time-pressured domains. Klein studied firefighters, nurses, military commanders — experts who *recognize patterns* and rapidly simulate outcomes to make decisions, often without articulable reasoning. His *Sources of Power* (1998) is the canonical reference.[^1] The generate-evaluate-select technique is RPD with the *candidates externalized*. You generate three responses so that you have three pattern-recognized candidates in front of you at once, then your expert pattern-recognition fires to select. Klein's argument is that expert recognition is fast, partly tacit, and reliable when the expert has domain experience. Generate-evaluate-select gives your domain experience something to bite on. (The TIKTOC originally specified Herbert Simon's satisficing as the Wayback figure here — also a strong fit. The pantry research recommended Klein because his framework is closer to what the human actually does in the selection moment. The chapter uses Klein; you can substitute Simon if your reading prefers him.)
 
 ---
 

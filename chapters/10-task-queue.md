@@ -1,5 +1,12 @@
 # Chapter 9 — The Task Queue: Keeping the Build Clean
 
+
+## TL;DR
+
+- This chapter gives a working overview of The Task Queue: Keeping the Build Clean, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What the task queue is, When to use the task queue, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The task queue captures tangential ideas and parallel work without breaking the main build's focus. It is the lightweight backlog that prevents context from accumulating into noise.
 
 ---
@@ -164,9 +171,8 @@ I expect the difference to be real but modest. The chapter's argument is structu
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Herbert Simon** (1916–2001) — Nobel laureate (Economics, 1978) whose paper *The Architecture of Complexity* (1962) introduced the concept of **nearly decomposable systems**: complex systems can be productively analyzed and built when they decompose into subsystems with strong internal coupling and weak external coupling.[^3] Simon's argument: the brain can manage complexity precisely because it can break large problems into nearly independent subproblems, solve each in isolation, and integrate the results. The task queue is Simon's nearly decomposable system applied to AI-assisted builds. Each task-queue item is a subproblem with strong internal coupling (the task is self-contained) and weak external coupling (the result returns as a summary, not as a context-bloat). The main session integrates. *(The pantry research recommended Carl Hewitt's actor model — independent agents communicating through messages — as a substantively closer match to the task queue's literal architecture. Either Simon or Hewitt is defensible; the book uses Simon for series consistency with the student book.)*
+##  AI Wayback Machine
+ **Herbert Simon** (1916–2001) — Nobel laureate (Economics, 1978) whose paper *The Architecture of Complexity* (1962) introduced the concept of **nearly decomposable systems**: complex systems can be productively analyzed and built when they decompose into subsystems with strong internal coupling and weak external coupling.[^3] Simon's argument: the brain can manage complexity precisely because it can break large problems into nearly independent subproblems, solve each in isolation, and integrate the results. The task queue is Simon's nearly decomposable system applied to AI-assisted builds. Each task-queue item is a subproblem with strong internal coupling (the task is self-contained) and weak external coupling (the result returns as a summary, not as a context-bloat). The main session integrates. *(The pantry research recommended Carl Hewitt's actor model — independent agents communicating through messages — as a substantively closer match to the task queue's literal architecture. Either Simon or Hewitt is defensible; the book uses Simon for series consistency with the student book.)*
 
 ---
 

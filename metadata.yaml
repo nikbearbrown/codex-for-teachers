@@ -1,13 +1,9 @@
 ---
 title: "Codex for Teachers"
 subtitle: "AI+1, Hands on. Domain specific. No generic prompts."
-author: "Humanitarians AI"
-language: en-US
-rights: "Copyright © 2026 Humanitarians AI"
-publisher: "Humanitarians AI"
-date: "2026-05-19"
-cover-image: cover.jpg
-stylesheet: styles/kindle.css
-toc: true
-toc-depth: 2
----
+author: "Humanitarians AI Incorporated"
+date: 2026
+lang: en-US
+rights: "Copyright © 2026 Humanitarians AI Incorporated. All rights reserved."
+publisher: "Humanitarians AI Incorporated, a 501(c)(3) nonprofit organization"
+...

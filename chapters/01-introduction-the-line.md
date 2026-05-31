@@ -1,5 +1,12 @@
 # Chapter 0 — Introduction: The Line
 
+
+## TL;DR
+
+- By the end of this chapter, you will be able to:.
+- The chapter moves through Learning outcomes, Opening, What you will build, The two tracks, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > There is a line between what Codex executes and what only you can do. This book teaches you to draw it — by building real things, then teaching students to draw it themselves.
 
 ---
@@ -165,9 +172,8 @@ These questions are the live edge of the field. The book does not pretend otherw
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **John Dewey** (1859–1952) — philosopher of education whose argument that *the teacher learns by teaching* underlies the interleaved structure of this book. Dewey's concept of "reflective practice" holds that making a discipline explicit for students deepens the teacher's own understanding of it — that the act of teaching is itself a form of inquiry. In *Experience and Education* (1938) he wrote that the educator's task is to organize "experiences that arouse a genuine desire for further knowledge."[^4] Every chapter of this book is built on Dewey's claim: your build is the experience; teaching that experience to your students is what consolidates what you learned in building it.
+##  AI Wayback Machine
+ **John Dewey** (1859–1952) — philosopher of education whose argument that *the teacher learns by teaching* underlies the interleaved structure of this book. Dewey's concept of "reflective practice" holds that making a discipline explicit for students deepens the teacher's own understanding of it — that the act of teaching is itself a form of inquiry. In *Experience and Education* (1938) he wrote that the educator's task is to organize "experiences that arouse a genuine desire for further knowledge."[^4] Every chapter of this book is built on Dewey's claim: your build is the experience; teaching that experience to your students is what consolidates what you learned in building it.
 
 ---
 

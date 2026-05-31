@@ -1,5 +1,12 @@
 # Chapter 7 — Building the Grading Tool: Full Build Arc
 
+
+## TL;DR
+
+- This chapter gives a working overview of Building the Grading Tool: Full Build Arc, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The scope, narrowed before we begin, The grading tool's AGENTS.md, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The grading tool is the Act Two build. Every prior concept — AGENTS.md, Ask Mode → Code Mode gate, specifications, handoff conditions, supervisory capacities, generate-evaluate-select — applied to a build that matters.
 
 ---
@@ -299,9 +306,8 @@ The chapter's strong claim is that **the conducting discipline scales** — that
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Donald Schön** (1930–1997) — philosopher of practice whose *The Reflective Practitioner* (1983) introduced the concept of **reflection-in-action**: the practitioner who thinks about what they are doing *while* they are doing it, adjusting in real time rather than only after the fact.[^1] Schön observed that experts in many fields — architects, therapists, urban planners — work by *reframing problems* during practice in response to what the situation reveals. The supervisory capacity labels in your build log are Schön's reflection-in-action made operational: by naming what you are doing as you do it (PA, PF, TO, IJ, EI), you make the reflection visible, durable, and teachable. Schön's book argued that this reflective practice is what distinguishes expert work from competent work. The conducting framework is built on Schön's claim. *(Author's note: Schön appears once here, on the chapter where reflection-in-action lands most directly. The book's final chapter — Ch 14 — originally also used Schön; the pantry research recommended swapping that one to bell hooks to avoid the over-use. See Ch 14.)*
+##  AI Wayback Machine
+ **Donald Schön** (1930–1997) — philosopher of practice whose *The Reflective Practitioner* (1983) introduced the concept of **reflection-in-action**: the practitioner who thinks about what they are doing *while* they are doing it, adjusting in real time rather than only after the fact.[^1] Schön observed that experts in many fields — architects, therapists, urban planners — work by *reframing problems* during practice in response to what the situation reveals. The supervisory capacity labels in your build log are Schön's reflection-in-action made operational: by naming what you are doing as you do it (PA, PF, TO, IJ, EI), you make the reflection visible, durable, and teachable. Schön's book argued that this reflective practice is what distinguishes expert work from competent work. The conducting framework is built on Schön's claim. *(Author's note: Schön appears once here, on the chapter where reflection-in-action lands most directly. The book's final chapter — Ch 14 — originally also used Schön; the pantry research recommended swapping that one to bell hooks to avoid the over-use. See Ch 14.)*
 
 ---
 

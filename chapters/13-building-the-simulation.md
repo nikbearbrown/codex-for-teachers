@@ -1,5 +1,12 @@
 # Chapter 11 — Building the Simulation: Conducting at Full Complexity
 
+
+## TL;DR
+
+- This chapter gives a working overview of Building the Simulation: Conducting at Full Complexity, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, Phase 1 — Scaffold and styling, Phase 2 — Bubble-sort algorithm in JS, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The three files are in place, the plan is approved. The build begins. Every step has a specification, a handoff condition, and a labeled supervisory capacity.
 
 ---
@@ -218,9 +225,8 @@ The chapter's strong claim is that **the conducting discipline scales to full si
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Wanda Orlikowski** (born 1953) — MIT Sloan professor of information technologies whose work on **technology-in-practice** argues that tools are *shaped by the work they support* — that the meaningful unit of analysis is not the tool itself but the recurrent practices through which the tool gets used.[^2] In *Using Technology and Constituting Structures* (Organization Science, 2000) and in subsequent work, Orlikowski showed that two organizations adopting the same technology can produce strikingly different patterns of use, and that the difference is in the *practices* the technology gets enacted through. The three-file system + the conducting discipline is what makes Codex's *practice* — in your classroom, on your build — *yours*. The same Codex, used by a teacher with a generic prompt and no three-file system, produces the generic simulation that opened Chapter 10. Used with the discipline, it produces a simulation that fits your students. Orlikowski's framework is the argument for why the discipline matters: the tool is constituted by the practice. The book is a practice. *(The TIKTOC originally specified Donald Schön here; the chapter has used Orlikowski to avoid over-using Schön across the book. Schön remains the figure at Chapter 7 where reflection-in-action lands most precisely.)*
+##  AI Wayback Machine
+ **Wanda Orlikowski** (born 1953) — MIT Sloan professor of information technologies whose work on **technology-in-practice** argues that tools are *shaped by the work they support* — that the meaningful unit of analysis is not the tool itself but the recurrent practices through which the tool gets used.[^2] In *Using Technology and Constituting Structures* (Organization Science, 2000) and in subsequent work, Orlikowski showed that two organizations adopting the same technology can produce strikingly different patterns of use, and that the difference is in the *practices* the technology gets enacted through. The three-file system + the conducting discipline is what makes Codex's *practice* — in your classroom, on your build — *yours*. The same Codex, used by a teacher with a generic prompt and no three-file system, produces the generic simulation that opened Chapter 10. Used with the discipline, it produces a simulation that fits your students. Orlikowski's framework is the argument for why the discipline matters: the tool is constituted by the practice. The book is a practice. *(The TIKTOC originally specified Donald Schön here; the chapter has used Orlikowski to avoid over-using Schön across the book. Schön remains the figure at Chapter 7 where reflection-in-action lands most precisely.)*
 
 ---
 

@@ -1,5 +1,11 @@
 # Bridge — From Tools That Save Time to Tools That Change What's Possible
 
+
+## TL;DR
+
+- This chapter gives a working overview of Bridge — From Tools That Save Time to Tools That Change What's Possible, focusing on the ideas a reader needs before moving to the next chapter.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Seth describes the moment his builds stopped being about productivity and started being about what he could make that didn't exist before.
 
 ---
@@ -59,9 +65,8 @@ Turn the page.
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Seymour Papert** (1928–2016) — mathematician and educator who invented Logo and argued, across his career, that children learn most deeply when they *build things for others to use*. In *Mindstorms* (1980), Papert called these *"objects to think with"* — artifacts that the learner constructs and that, in being used, teach both the builder and the user.[^1] An interactive simulation built by a teacher and deployed in their classroom is exactly Papert's object to think with — at the teacher-builder scale rather than the student-builder scale. Papert's argument was that the cognitive value of the build comes from the build's *audience-with-stake*: the artifact has a use, and the use shapes the build. Act Three is Papert's principle applied to teacher work. The simulation has students who will use it. The students' use will shape what you build. The build will, in turn, shape what you know how to teach.
+##  AI Wayback Machine
+ **Seymour Papert** (1928–2016) — mathematician and educator who invented Logo and argued, across his career, that children learn most deeply when they *build things for others to use*. In *Mindstorms* (1980), Papert called these *"objects to think with"* — artifacts that the learner constructs and that, in being used, teach both the builder and the user.[^1] An interactive simulation built by a teacher and deployed in their classroom is exactly Papert's object to think with — at the teacher-builder scale rather than the student-builder scale. Papert's argument was that the cognitive value of the build comes from the build's *audience-with-stake*: the artifact has a use, and the use shapes the build. Act Three is Papert's principle applied to teacher work. The simulation has students who will use it. The students' use will shape what you build. The build will, in turn, shape what you know how to teach.
 
 ---
 

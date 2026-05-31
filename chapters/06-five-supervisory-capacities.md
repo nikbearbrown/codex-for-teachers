@@ -1,5 +1,12 @@
 # Chapter 5 — The Five Supervisory Capacities
 
+
+## TL;DR
+
+- This chapter gives a working overview of The Five Supervisory Capacities, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The five capacities, [PA] Plausibility Auditing, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > These are the five things you do that Codex cannot. Name them. Exercise them explicitly. Never delegate them.
 
 ---
@@ -200,9 +207,8 @@ I do not expect this to happen on the next-edition timeline (2027–2028). I am 
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Norbert Wiener** (1894–1964) — mathematician who founded **cybernetics**, the study of control and communication in animals and machines. Wiener's central insight was that systems maintain their goals through *feedback loops*: a signal that compares current state to intended state, used to correct course. *The Human Use of Human Beings* (1950, revised 1954) extended cybernetics into a question that is the question this book asks: *what does the machine do to the human who uses it?*[^2] The five supervisory capacities are Wiener's feedback loops applied to AI-assisted work. They are the mechanisms by which the human maintains the build's goal in the face of the disturbance — *productive* disturbance, but disturbance — that the agentic system introduces. Without the feedback loops, the system drifts. Wiener saw this in 1950 with mechanical systems. The chapter is his argument applied to systems that write code.
+##  AI Wayback Machine
+ **Norbert Wiener** (1894–1964) — mathematician who founded **cybernetics**, the study of control and communication in animals and machines. Wiener's central insight was that systems maintain their goals through *feedback loops*: a signal that compares current state to intended state, used to correct course. *The Human Use of Human Beings* (1950, revised 1954) extended cybernetics into a question that is the question this book asks: *what does the machine do to the human who uses it?*[^2] The five supervisory capacities are Wiener's feedback loops applied to AI-assisted work. They are the mechanisms by which the human maintains the build's goal in the face of the disturbance — *productive* disturbance, but disturbance — that the agentic system introduces. Without the feedback loops, the system drifts. Wiener saw this in 1950 with mechanical systems. The chapter is his argument applied to systems that write code.
 
 ---
 

@@ -1,5 +1,12 @@
 # Chapter 13 — Teaching the Discipline: What Your Students Are Reading
 
+
+## TL;DR
+
+- This chapter gives a working overview of Teaching the Discipline: What Your Students Are Reading, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The students book chapter map, Using your built artifacts as teaching material, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Your students have the Codex students book. This chapter maps what they're learning to what you now know how to teach.
 
 ---
@@ -187,9 +194,8 @@ I expect the difference to be real. The argument is that you cannot reliably ass
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Lee Shulman** (born 1938) — educational psychologist whose 1986 paper *Those Who Understand: Knowledge Growth in Teaching* introduced the concept of **pedagogical content knowledge (PCK)** — the specific knowledge a teacher needs that is *neither* pure subject knowledge *nor* pure pedagogy, but the integrated knowledge of *how to teach this particular subject to learners at this particular level*.[^2] Shulman's argument was that domain expertise and teaching expertise are different competencies, and that expert teaching requires a third competency — PCK — that is built only through the practice of teaching the specific subject. The teacher who has built three classroom tools with Codex has *PCK for AI-assisted classroom work* in a way the teacher who has only used Codex for lesson plans does not. The Mishra & Koehler extension to TPACK (2006) added *technology* to the framework: pedagogical content knowledge for technology-integrated teaching is a fourth competency, built through technology-integrated practice. This book has been Shulman applied to Codex: PCK + technology, built through three builds, applied to teaching.
+##  AI Wayback Machine
+ **Lee Shulman** (born 1938) — educational psychologist whose 1986 paper *Those Who Understand: Knowledge Growth in Teaching* introduced the concept of **pedagogical content knowledge (PCK)** — the specific knowledge a teacher needs that is *neither* pure subject knowledge *nor* pure pedagogy, but the integrated knowledge of *how to teach this particular subject to learners at this particular level*.[^2] Shulman's argument was that domain expertise and teaching expertise are different competencies, and that expert teaching requires a third competency — PCK — that is built only through the practice of teaching the specific subject. The teacher who has built three classroom tools with Codex has *PCK for AI-assisted classroom work* in a way the teacher who has only used Codex for lesson plans does not. The Mishra & Koehler extension to TPACK (2006) added *technology* to the framework: pedagogical content knowledge for technology-integrated teaching is a fourth competency, built through technology-integrated practice. This book has been Shulman applied to Codex: PCK + technology, built through three builds, applied to teaching.
 
 ---
 

@@ -1,5 +1,12 @@
 # Chapter 4 — Handoff Conditions: The Gate Between Steps
 
+
+## TL;DR
+
+- This chapter gives a working overview of Handoff Conditions: The Gate Between Steps, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What a handoff condition is, Why "looks good" fails, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Not "looks good." A specific, testable condition that must be true before the next step begins. This is what separates conducting from approving.
 
 ---
@@ -188,9 +195,8 @@ The chapter's strong claim is that **explicit, binary handoff conditions catch s
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **W. Edwards Deming** (1900–1993) — statistician whose **Plan-Do-Check-Act** cycle became the foundation of modern quality management. Deming argued that quality is built into a process through verification at every step — not inspected in at the end.[^3] His warning, *"A bad system will beat a good person every time,"* is the operational argument for the handoff condition: a build system without per-step verification will produce silent failures regardless of how careful the individual builder is. Deming's PDCA cycle is the handoff condition principle applied to manufacturing, and the manufacturing line is the conceptual ancestor of the agentic build loop. *Plan* is Ask Mode. *Do* is Code Mode. *Check* is the handoff condition. *Act* is the revert-and-respecify response when the check fails.
+##  AI Wayback Machine
+ **W. Edwards Deming** (1900–1993) — statistician whose **Plan-Do-Check-Act** cycle became the foundation of modern quality management. Deming argued that quality is built into a process through verification at every step — not inspected in at the end.[^3] His warning, *"A bad system will beat a good person every time,"* is the operational argument for the handoff condition: a build system without per-step verification will produce silent failures regardless of how careful the individual builder is. Deming's PDCA cycle is the handoff condition principle applied to manufacturing, and the manufacturing line is the conceptual ancestor of the agentic build loop. *Plan* is Ask Mode. *Do* is Code Mode. *Check* is the handoff condition. *Act* is the revert-and-respecify response when the check fails.
 
 ---
 

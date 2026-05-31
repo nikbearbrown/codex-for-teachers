@@ -1,5 +1,12 @@
 # Chapter 12 — Deploying in Class: From Build to Lesson
 
+
+## TL;DR
+
+- This chapter gives a working overview of Deploying in Class: From Build to Lesson, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The three-check verification, Check 1: First-30-seconds test, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The simulation works in Code Mode. Now it has to work with 30 students who have never seen it.
 
 ---
@@ -197,9 +204,8 @@ The chapter's claim is that **the three-check verification meaningfully reduces 
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Maria Montessori** (1870–1952) — Italian physician and educator whose *Montessori Method* (1912) argued that educational materials must be **self-correcting**: the student who uses the material discovers their own errors without needing teacher intervention.[^1] Montessori called this *the control of error*. Her insight was that materials with built-in feedback loops free the teacher's attention for the cases the material cannot handle, and free the student to learn at the pace their work produces. The first-30-seconds test in this chapter is *control of error* applied to digital classroom tools: the simulation that requires teacher explanation to begin is not yet a Montessori-grade learning material; the simulation that the student can open and start using without intervention is. Montessori's argument was made for physical materials (the pink tower, the cylinder blocks, the sandpaper letters). The principle scales to interactive simulations exactly: the value of the material is in *what the student can do with it independently*, not in what the teacher demonstrates from the front of the room.
+##  AI Wayback Machine
+ **Maria Montessori** (1870–1952) — Italian physician and educator whose *Montessori Method* (1912) argued that educational materials must be **self-correcting**: the student who uses the material discovers their own errors without needing teacher intervention.[^1] Montessori called this *the control of error*. Her insight was that materials with built-in feedback loops free the teacher's attention for the cases the material cannot handle, and free the student to learn at the pace their work produces. The first-30-seconds test in this chapter is *control of error* applied to digital classroom tools: the simulation that requires teacher explanation to begin is not yet a Montessori-grade learning material; the simulation that the student can open and start using without intervention is. Montessori's argument was made for physical materials (the pink tower, the cylinder blocks, the sandpaper letters). The principle scales to interactive simulations exactly: the value of the material is in *what the student can do with it independently*, not in what the teacher demonstrates from the front of the room.
 
 ---
 

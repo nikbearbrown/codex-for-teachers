@@ -1,5 +1,12 @@
 # Chapter 3 — From Prompts to Specifications: Ask Mode, Code Mode, and the First Build
 
+
+## TL;DR
+
+- This chapter gives a working overview of From Prompts to Specifications: Ask Mode, Code Mode, and the First Build, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, The gate, in operational detail, The five-element specification, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Ask Mode is for planning. Code Mode is for executing. Nothing goes to Code Mode without a reviewed plan. The class website is the first build.
 
 ---
@@ -187,9 +194,8 @@ The chapter's strong operational claim is that **the five-element specification 
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **George Pólya** (1887–1985) — Hungarian-American mathematician whose *How to Solve It* (1945) formalized problem-solving as a four-stage process: understand the problem, devise a plan, carry out the plan, look back.[^2] Pólya's first stage — understand the problem — is the work this chapter calls Ask Mode interrogation. His second — devise a plan — is the work the chapter calls the five-element specification. His third — carry out the plan — is Code Mode. His fourth — look back — is verification (Chapter 4). The Ask Mode / Code Mode gate is Pólya's sequence applied to AI-assisted development, sixty years before the tool existed that required it. Pólya wrote for human problem-solvers; the discipline he named scales.
+##  AI Wayback Machine
+ **George Pólya** (1887–1985) — Hungarian-American mathematician whose *How to Solve It* (1945) formalized problem-solving as a four-stage process: understand the problem, devise a plan, carry out the plan, look back.[^2] Pólya's first stage — understand the problem — is the work this chapter calls Ask Mode interrogation. His second — devise a plan — is the work the chapter calls the five-element specification. His third — carry out the plan — is Code Mode. His fourth — look back — is verification (Chapter 4). The Ask Mode / Code Mode gate is Pólya's sequence applied to AI-assisted development, sixty years before the tool existed that required it. Pólya wrote for human problem-solvers; the discipline he named scales.
 
 ---
 

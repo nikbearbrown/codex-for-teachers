@@ -1,5 +1,12 @@
 # Chapter 2 — AGENTS.md: Your Coding Constitution
 
+
+## TL;DR
+
+- By the end of this chapter, you will be able to:.
+- The chapter moves through Learning outcomes, Opening, What AGENTS.md is, The five-element format, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > AGENTS.md is the file Codex reads at the start of every session. It is the difference between a Codex that knows your project and a Codex that guesses.
 
 ---
@@ -234,9 +241,8 @@ OpenAI's own documentation, the broader practitioner literature, and personal ex
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Donald Knuth** (born 1938) — computer scientist who created TeX and articulated the principle of **literate programming**: that a program should be written for humans to read, with the code as a side effect, so that both the human reader and the machine reader are served simultaneously.[^4] In *Literate Programming* (1984), Knuth wrote: *"Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do."* AGENTS.md is literate programming applied to AI collaboration. The human writes the explanation; both the human and Codex benefit. Knuth's 1984 paper is the conceptual ancestor of every project-context file in the 2024–2026 ecosystem — CLAUDE.md, AGENTS.md, CLI.md, DESIGN.md.
+##  AI Wayback Machine
+ **Donald Knuth** (born 1938) — computer scientist who created TeX and articulated the principle of **literate programming**: that a program should be written for humans to read, with the code as a side effect, so that both the human reader and the machine reader are served simultaneously.[^4] In *Literate Programming* (1984), Knuth wrote: *"Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do."* AGENTS.md is literate programming applied to AI collaboration. The human writes the explanation; both the human and Codex benefit. Knuth's 1984 paper is the conceptual ancestor of every project-context file in the 2024–2026 ecosystem — CLAUDE.md, AGENTS.md, CLI.md, DESIGN.md.
 
 ---
 

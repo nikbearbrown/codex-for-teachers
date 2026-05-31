@@ -1,5 +1,12 @@
 # Chapter 8 — The Dangerous Middle: When Codex Is Right and Wrong Simultaneously
 
+
+## TL;DR
+
+- This chapter gives a working overview of The Dangerous Middle: When Codex Is Right and Wrong Simultaneously, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through Learning outcomes, Opening, What the dangerous middle is, What the empirical literature actually says (updated), and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > The hardest moment in a grading tool build: Codex produces feedback that passes every handoff condition you wrote and is still pedagogically wrong.
 
 ---
@@ -211,9 +218,8 @@ I do not expect this to happen on the next-edition timeline. The bias literature
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Alfred Binet** (1857–1911) — French psychologist who developed the **first intelligence test** at the request of the French government, who wanted a way to identify children who needed extra support. Binet's foundational warning, issued in his 1909 *Les idées modernes sur les enfants*, was about how to use his own instrument: *"The scale, properly speaking, does not permit the measure of the intelligence, because intellectual qualities are not superposable, and therefore cannot be measured as linear surfaces are measured. ... It is a rough guide for identifying children who need help, not a label for fixed intelligence."*[^5] His insistence on the *human interpretation layer* — that a measurement requires a professional judgment in order to be useful — is the chapter's intellectual core. Binet's instrument was used in the United States, against his explicit warnings, to support fixed-IQ models that justified educational tracking and worse. He saw the misuse coming and could not prevent it. The chapter's narrowing principle is Binet's discipline applied to AI grading: the instrument is useful as a guide to where attention belongs; it is not the verdict. The verdict is the teacher's. *(The pantry research suggested Asa G. Hilliard III, whose work on cultural bias in standardized testing applies more directly to the chapter's AAVE content, as an alternate Wayback figure. Either is a defensible choice; Hilliard would strengthen the diversity of the book's full Wayback list.)*
+##  AI Wayback Machine
+ **Alfred Binet** (1857–1911) — French psychologist who developed the **first intelligence test** at the request of the French government, who wanted a way to identify children who needed extra support. Binet's foundational warning, issued in his 1909 *Les idées modernes sur les enfants*, was about how to use his own instrument: *"The scale, properly speaking, does not permit the measure of the intelligence, because intellectual qualities are not superposable, and therefore cannot be measured as linear surfaces are measured. ... It is a rough guide for identifying children who need help, not a label for fixed intelligence."*[^5] His insistence on the *human interpretation layer* — that a measurement requires a professional judgment in order to be useful — is the chapter's intellectual core. Binet's instrument was used in the United States, against his explicit warnings, to support fixed-IQ models that justified educational tracking and worse. He saw the misuse coming and could not prevent it. The chapter's narrowing principle is Binet's discipline applied to AI grading: the instrument is useful as a guide to where attention belongs; it is not the verdict. The verdict is the teacher's. *(The pantry research suggested Asa G. Hilliard III, whose work on cultural bias in standardized testing applies more directly to the chapter's AAVE content, as an alternate Wayback figure. Either is a defensible choice; Hilliard would strengthen the diversity of the book's full Wayback list.)*
 
 ---
 

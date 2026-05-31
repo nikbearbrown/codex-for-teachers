@@ -1,5 +1,12 @@
 # Chapter 1 — Your First Codex Session: This Is Not ChatGPT
 
+
+## TL;DR
+
+- By the end of this chapter, you will be able to:.
+- The chapter moves through Learning outcomes, Opening, The agentic loop, Setting up Codex, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 > Codex plans multi-step tasks, executes shell commands, reads and writes files, and iterates autonomously. That autonomy is the feature — and the reason you need a discipline before you start.
 
 ---
@@ -211,9 +218,8 @@ The chapter's strong claim is that **Ask-Mode-first reduces build errors materia
 
 ---
 
-## AI Wayback Machine
-
-🕰️ **Alan Kay** (born 1940) — computer scientist who designed the Dynabook concept: a personal computer as an instrument for learning, not just a tool for executing pre-specified tasks. Kay argued, in his 1972 Xerox PARC paper *A Personal Computer for Children of All Ages*, that the computer should be *a medium for exploration, not just execution*.[^4] The Ask Mode discipline is Kay's argument restated for agentic systems: spend time in the exploration register before you spend time in the execution register. The cognitive value happens upstream of the execution.
+##  AI Wayback Machine
+ **Alan Kay** (born 1940) — computer scientist who designed the Dynabook concept: a personal computer as an instrument for learning, not just a tool for executing pre-specified tasks. Kay argued, in his 1972 Xerox PARC paper *A Personal Computer for Children of All Ages*, that the computer should be *a medium for exploration, not just execution*.[^4] The Ask Mode discipline is Kay's argument restated for agentic systems: spend time in the exploration register before you spend time in the execution register. The cognitive value happens upstream of the execution.
 
 ---
 
